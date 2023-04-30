@@ -3,7 +3,7 @@ layout: default
 title: Using Variables in Scripts
 parent: Variables
 nav_order: 6
-permalink: "/var-usage"
+permalink: "/variables/var-usage"
 ---
 
 # Using Variables in Scripts
