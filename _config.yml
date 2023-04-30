@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: PowerShell for System Administrators
+description: Learn how to automate common system administration tasks with PowerShell scripts and modules. Improve your productivity and efficiency as a system administrator.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://theepicnik.github.io/powershellforsysadmins
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
