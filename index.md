@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Welcome to the **PowerShell for System Administrators** repository! This repository aims to provide an introduction to PowerShell for system administrators and IT professionals who want to automate common tasks and streamline their workflow.
