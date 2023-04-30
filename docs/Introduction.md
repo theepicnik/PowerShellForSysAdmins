@@ -2,7 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 2
-permalink: "/introduction"
+permalink: "/ps-introduction"
 ---
 
 PowerShell is a command-line shell and scripting language developed by Microsoft for Windows, Linux, and macOS. It is designed to automate administrative tasks and system management, allowing administrators to manage and configure computers from the command line rather than using graphical interfaces. PowerShell is based on the .NET Framework, and as such it provides access to a wide range of system administration tasks and APIs.
