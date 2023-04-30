@@ -3,6 +3,7 @@ layout: default
 title: Manipulating Variables
 parent: Variables
 nav_order: 4
+permalink: "/var-manipulation"
 ---
 
 # Manipulating Variables
