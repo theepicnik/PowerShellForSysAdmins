@@ -3,7 +3,7 @@ layout: default
 title: Introduction to Variables
 parent: Variables
 nav_order: 1
-permalink: "/var-intro"
+permalink: "/variables/var-intro"
 ---
 
 # Introduction to PS Variables

@@ -3,7 +3,7 @@ layout: default
 title: Variable Types
 parent: Variables
 nav_order: 2
-permalink: "/var-types"
+permalink: "/variables/var-types"
 ---
 
 # Introduction to PS Variables
