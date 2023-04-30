@@ -3,6 +3,7 @@ layout: default
 title: Scope of Variables
 parent: Variables
 nav_order: 5
+permalink: "/var-scope"
 ---
 
 # Scope of Variables

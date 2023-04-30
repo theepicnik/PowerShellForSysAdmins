@@ -3,6 +3,7 @@ layout: default
 title: Creating and Assigning Variables
 parent: Variables
 nav_order: 3
+permalink: "/var-create-and-assign"
 ---
 
 # Creating and Assigning Variables
