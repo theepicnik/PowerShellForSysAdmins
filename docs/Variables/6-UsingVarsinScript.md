@@ -16,6 +16,7 @@ To create a variable in PowerShell, you simply need to assign a value to it usin
 <div class="code-example" markdown="1">
 ```powershell
 $myVariable = "Hello, World!"
+```
 </div>
 
 This creates a variable named $myVariable and assigns the string value "Hello, World!" to it. You can then use this variable in your script by enclosing it in "$()" or using it directly. For example:
@@ -23,6 +24,7 @@ This creates a variable named $myVariable and assigns the string value "Hello, W
 <div class="code-example" markdown="1">
 ```powershell
 Write-Host "The value of myVariable is: $myVariable"
+```
 </div>
 
 This would output "The value of myVariable is: Hello, World!" to the console.
@@ -42,6 +44,7 @@ $name = "John"
 
 $message = "$greeting, $name!"
 Write-Host $message
+```
 </div>
 
 This would output "The sum of 5 and 10 is: 15" and "Hello, John!" to the console.
