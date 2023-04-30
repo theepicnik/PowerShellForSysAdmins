@@ -29,6 +29,7 @@ To specify the scope of a variable in PowerShell, you can use the following scop
 For example, to define a global variable in PowerShell, you can use the following syntax:
 
 <div class="code-example" markdown="1">
+```powershell
 $global:myGlobalVar = "Hello, World!"
 </div>
 

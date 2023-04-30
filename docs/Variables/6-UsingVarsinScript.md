@@ -14,12 +14,14 @@ PowerShell allows you to use variables to store and retrieve data in your script
 To create a variable in PowerShell, you simply need to assign a value to it using the "=" operator. For example:
 
 <div class="code-example" markdown="1">
+```powershell
 $myVariable = "Hello, World!"
 </div>
 
 This creates a variable named $myVariable and assigns the string value "Hello, World!" to it. You can then use this variable in your script by enclosing it in "$()" or using it directly. For example:
 
 <div class="code-example" markdown="1">
+```powershell
 Write-Host "The value of myVariable is: $myVariable"
 </div>
 
@@ -28,6 +30,7 @@ This would output "The value of myVariable is: Hello, World!" to the console.
 You can also perform arithmetic and string manipulation operations on variables in PowerShell. For example:
 
 <div class="code-example" markdown="1">
+```powershell
 $number1 = 5
 $number2 = 10
 
