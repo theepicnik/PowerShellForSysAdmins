@@ -31,6 +31,7 @@ For example, to define a global variable in PowerShell, you can use the followin
 <div class="code-example" markdown="1">
 ```powershell
 $global:myGlobalVar = "Hello, World!"
+```
 </div>
 
 Overall, understanding the scope of variables in PowerShell is important for writing clean, efficient, and secure code. By using the appropriate scope modifiers, you can ensure that your variables are accessible only where they are needed, and avoid potential conflicts or security vulnerabilities.
