@@ -6,7 +6,7 @@ nav_order: 1
 
 # About the Project
 
-Welcome to the **PowerShell for System Administrators** repository! This repository aims to provide an introduction to PowerShell for system administrators and IT professionals who want to automate common tasks and streamline their workflow.
+Welcome to the **PowerShell for System Administrators** project! This project aims to provide an introduction to PowerShell for system administrators and IT professionals who want to automate common tasks and streamline their workflow.
 
 PowerShell is a powerful scripting language developed by Microsoft that enables system administrators to automate tasks and manage systems at scale. With PowerShell, you can automate tasks such as user and group management, server management, and more, helping you to save time and improve your productivity.
 
