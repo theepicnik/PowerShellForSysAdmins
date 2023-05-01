@@ -63,6 +63,6 @@ Hi, I'm **Nikhil Tamhankar**, a Systems Specialist with 9+ of experience in Clou
 
 When I'm not working, you can find me spending time with my Family or exploring amazing foods in Pune, India.
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikhiltamhankar/){:target="_blank"}.
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikhiltamhankar/){:target="_blank"} or via [Email](mailto:iamnik.mailme@gmail.com).
 
 Thanks for reading!
