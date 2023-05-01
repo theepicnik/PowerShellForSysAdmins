@@ -2,7 +2,8 @@
 layout: default
 title: Introduction
 nav_order: 2
-permalink: "/ps-introduction"
+has_children: true
+permalink: "/introduction"
 ---
 
 # Introduction to PowerShell
