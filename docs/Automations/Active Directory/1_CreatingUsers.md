@@ -42,7 +42,10 @@ This script creates a new user account with the specified properties.
 
 You can modify this example to match your specific environment and create user accounts with the desired properties.
 
-{: .note }
+---
+
+### Note:
+
 You can use the `Get-Help` cmdlet with the `-Parameter` option to list all available parameters for a PowerShell cmdlet. Just replace the name of the cmdlet with 'New-ADUser' in below command.
 
 <div class="code-example" markdown="1">
