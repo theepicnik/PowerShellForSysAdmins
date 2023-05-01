@@ -1,5 +1,5 @@
 ---
-title: Home
+title: PowerShell for SysAdmins
 layout: home
 nav_order: 1
 ---
