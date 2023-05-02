@@ -32,4 +32,4 @@ Send-MailMessage -To $To -From $From -Subject $Subject -Body $Body -SmtpServer $
 ```
 </div>
 
-In this example, we're using the `-Body` parameter to set the body of the email to a multi-line string that contains the message. We're also setting the SMTP server information using the `$SMTPServer`, `$SMTPPort` variable. Finally, we're passing these variables to the `Send-MailMessage` cmdlet to send the email.
+In this example, we're using the `-Body` parameter to set the body of the email to a multi-line string that contains the message. We're also setting the SMTP server information using the `$SMTPServer` variable. Finally, we're passing these variables to the `Send-MailMessage` cmdlet to send the email.
