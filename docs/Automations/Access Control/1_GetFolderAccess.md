@@ -15,7 +15,7 @@ The `Get-ChildItem` cmdlet retrieves the folders/files properties.
 
 <div class="code-example" markdown="1">
 ```powershell
-$report = @() # create an empty hash table to store the report data
+$report = @() # create an empty array to store the report data
 
 # get a list of all folders within the specified path and its subfolders
 $folders = Get-ChildItem -Path $folderPath -Recurse -Directory -Depth 3
