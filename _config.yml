@@ -1,4 +1,4 @@
-title: PS for SysAdmins
+title: PowerShell for SysAdmins
 description: Learn how to automate common system administration tasks with PowerShell scripts and modules. Improve your productivity and efficiency as a system administrator.
 theme: just-the-docs
 
@@ -8,3 +8,6 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 enable_copy_code_button: true
+
+logo: "/assets/images/powershellforsysadmins.png"
+favicon_ico: "/assets/images/favicon.ico"
