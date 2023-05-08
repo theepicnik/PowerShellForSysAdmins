@@ -4,6 +4,10 @@ theme: just-the-docs
 
 url: https://theepicnik.github.io/powershellforsysadmins
 
+# Google Analytics Tracking (optional)
+ga_tracking: G-71TJTT06X3
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
